@@ -1,0 +1,2 @@
+将数据导入mysql
+找到安全文件夹，更改权限，将文件复制到安全文件夹，load data local infile ''。。。

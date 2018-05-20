@@ -1,0 +1,27 @@
+
+登陆账号
+git config --global user.name ""
+
+git config --global user.email "px2016@mail.ustc.edu.cn"
+
+更改密钥操作
+$ ssh-keygen -t rsa -b 4096 -C "px2016@mail.ustc.edu.cn"
+
+yes进入.ssh
+
+$ls
+
+
+进入文件夹所在路径
+
+cd
+
+git init
+
+git add .
+
+git commit -m "提交文件"
+
+git remote add origin 仓库地址
+
+
